@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20science/MLOPS/MLFLOW/MLFLOW_Flask/mlruns/0/429f6c6a1bf54a96b71ddc2f120debc3/artifacts
+end_time: 1673632295746
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 429f6c6a1bf54a96b71ddc2f120debc3
+run_name: omniscient-robin-29
+run_uuid: 429f6c6a1bf54a96b71ddc2f120debc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673632295690
+status: 3
+tags: []
+user_id: sairam
